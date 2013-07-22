@@ -33,7 +33,7 @@ Clone vagrant_openerp from github :
 
 .. code-block:: sh
 
-    git clone https://github.com/arthru/vagrant_openerp.git
+    git clone https://github.com/rahmatawaludin/vagrant_openerp.git
 
 Go to the new directory and set up the vagrant VMs :
 
